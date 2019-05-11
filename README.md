@@ -1,4 +1,4 @@
 # Zerone
 in the game you are challenged to debug datas  from usb drive.
 
-![alt text](https://i0.wp.com/ares.shiftdelete.net/580x330/original/2018/05/aYBjv5.jpg)
+![alt text](https://raw.githubusercontent.com/Talhasarac/Zerone/master/Annotation%202019-05-11%20161545.png)
