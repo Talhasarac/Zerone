@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scoremanager.cs">
+    <Files>
+      <File FileName="Assets\ray.cs" Line="1" Column="1" />
+      <File FileName="Assets\fpscounter.cs" Line="1" Column="1" />
+      <File FileName="Assets\spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\units.cs" Line="1" Column="1" />
+      <File FileName="Assets\droppeditemcounter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scoremanager.cs" Line="50" Column="4" />
+      <File FileName="Assets\Camresizer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
